@@ -52,27 +52,7 @@ Desenvolvedor apaixonado por tecnologia e inovação, com grande fascínio por *
 
 </div>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciel76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel76&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maciel76&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Conquistas
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Maciel76&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
-## 📫 Como me Encontrar
+## Como me Encontrar
 
 <div align="center">
 
