@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Maciel Ribeiro!
+# 👋 Olá, eu sou Maciel Ribeiro Barbosa!
 
 <div align="center">
   
@@ -8,12 +8,14 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluções que fazem a diferença e estou sempre buscando aprender novas tecnologias e metodologias.
+Desenvolvedor apaixonado por tecnologia e inovação, com grande fascínio por **Inteligências Artificiais**. Adoro criar soluções que fazem a diferença e estou sempre explorando as mais novas tecnologias do mercado.
 
-- 🔭 Atualmente trabalhando em projetos desafiadores
-- 🌱 Constantemente aprendendo novas tecnologias
-- 💬 Pergunte-me sobre desenvolvimento web, automação e boas práticas
-- ⚡ Curiosidade: Café e código são a combinação perfeita!
+- 🤖 **Apaixonado por Inteligências Artificiais** e suas aplicações práticas
+- 🌟 Sempre buscando me **atualizar sobre novas tecnologias**
+- 🔭 Trabalhando em projetos que integram IA e desenvolvimento web
+- 🌱 Explorando constantemente ferramentas de IA para otimizar meu trabalho
+- 💬 Pergunte-me sobre desenvolvimento web, automação e IA
+- ⚡ Curiosidade: Café, código e IA são a combinação perfeita!
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -40,6 +42,13 @@ Desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluções que
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 🤖 Ferramentas Auxiliares de IA
+
+![Claude](https://img.shields.io/badge/-Claude-9B6FFF?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-FF6B00?style=flat-square&logo=alibaba-cloud&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -74,27 +83,24 @@ Desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluções que
 
 </div>
 
-## 💡 Projetos em Destaque
+## 🧠 Exploração e Aprendizado Contínuo
 
-### 🛍️ E-commerce & Vendas
+### 🤖 Inteligência Artificial & Inovação
 
-- 🛒 **[CraftCareStore](https://github.com/Maciel76/CraftCareStore)** → Loja online para vendas artesanais
-- 🏪 **[Auditoria Loja](https://github.com/Maciel76/Auditoria-Loja)** → Sistema de auditoria e controle de estoque
+Estou constantemente explorando e experimentando com as mais recentes tecnologias de IA:
 
-### 🌐 Sites Institucionais
+- 🔬 **Experimentação com LLMs** - Testando diferentes modelos de linguagem (Claude, Gemini, Qwen)
+- 🛠️ **IA no Desenvolvimento** - Utilizando GitHub Copilot e Claude para otimizar meu fluxo de trabalho
+- 📚 **Estudo Contínuo** - Acompanhando as últimas tendências em Machine Learning e IA Generativa
+- 💡 **Aplicações Práticas** - Integrando IA em projetos web para criar soluções mais inteligentes
 
-- 🏥 **[ClinicaVitalis](https://github.com/Maciel76/ClinicaVitalis)** → Site institucional para clínica de saúde
-- ⚖️ **[Advocacia Silva](https://github.com/Maciel76/Advocacia-Silva)** → Site institucional para escritório de advocacia
-- 🏗️ **[Construtora Alpha](https://github.com/Maciel76/Construtora-Alpha)** → Site institucional para construtora
+### 🚀 Áreas de Interesse
 
-### 💼 Portfólios & Agências
-
-- 🌐 **[SkillTechnologyWork](https://github.com/Maciel76/SkillTechnologyWork)** → Portfólio de agência de tecnologia
-
-### 🎮 Aplicações & Ferramentas
-
-- 🎮 **[Jogo Adivinha](https://github.com/Maciel76/Jogo-Adivinha)** → Jogo divertido em HTML com feedback visual
-- 🔗 **[QRGen-Pro](https://github.com/Maciel76/QRGen-Pro)** → Gerador de QR Codes profissional
+- 🧩 Desenvolvimento de aplicações com integração de IA
+- 🌐 Web Development moderno com Vue.js e Node.js
+- 🤖 Automação inteligente de processos
+- 📊 Análise de dados e Machine Learning
+- 🔮 Exploração de novas tecnologias emergentes
 
 ## 📈 Atividade Recente
 
