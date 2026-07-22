@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack · Vue.js & Node.js
 
-Construindo aplicações web para resolver problemas reais de negócio — de sistemas de auditoria e monitoramento a plataformas institucionais e automação.
+Construindo aplicações web para complexas para  resolver problemas reais de negócio — como sistemas e  plataformas  institucionais Personalizadas e automação.
 
 <br>
 
