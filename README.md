@@ -1,136 +1,97 @@
-# 👋 Olá, eu sou Maciel Ribeiro!
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Especialista+em+Vue.js+%26+Node.js+%F0%9F%92%BB;Apaixonado+por+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Entusiasta+de+Novas+Tecnologias+%E2%9C%A8;Criando+Solu%C3%A7%C3%B5es+Inovadoras+%F0%9F%92%A1;Sempre+Explorando+e+Aprendendo!+%F0%9F%8C%9F)
-  
-</div>
-
-## 🚀 Sobre Mim
-
-Desenvolvedor apaixonado por tecnologia e inovação, com grande fascínio por **Inteligências Artificiais**. Adoro criar soluções que fazem a diferença e estou sempre explorando as mais novas tecnologias do mercado.
-
-- 🤖 **Apaixonado por Inteligências Artificiais** e suas aplicações práticas
-- 🌟 Sempre buscando me **atualizar sobre novas tecnologias**
-- 🔭 Trabalhando em projetos que integram IA e desenvolvimento web
-- 🌱 Explorando constantemente ferramentas de IA para otimizar meu trabalho
-- 💬 Pergunte-me sobre desenvolvimento web, automação e IA
-- ⚡ Curiosidade: Café, código e IA são a combinação perfeita!
-
-## 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
 
-### Frontend
+# Maciel Ribeiro Barbosa
 
-![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
-![Vue Router](https://img.shields.io/badge/-Vue%20Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+### Desenvolvedor Full Stack · Vue.js & Node.js
 
-### Backend & APIs
+Construindo aplicações web para resolver problemas reais de negócio — de sistemas de auditoria e monitoramento a plataformas institucionais e automação.
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
+<br>
 
-### Banco de Dados
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue.js+%7C+Node.js+%7C+Express;Sistemas+web+para+neg%C3%B3cios+reais;Automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%A3o+de+dados)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br>
 
-### Bibliotecas & Utilitários
-
-![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white)
-![jsPDF](https://img.shields.io/badge/-jsPDF-FF3333?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)
-![html2canvas](https://img.shields.io/badge/-html2canvas-E44D26?style=flat-square&logo=html5&logoColor=white)
-![XLSX](https://img.shields.io/badge/-XLSX-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### Ferramentas & Plataformas
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 🤖 Ferramentas Auxiliares de IA
-
-![Claude](https://img.shields.io/badge/-Claude-9B6FFF?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Qwen](https://img.shields.io/badge/-Qwen-FF6B00?style=flat-square&logo=alibaba-cloud&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
 
 </div>
 
-## 📊 Estatísticas GitHub
+---
+
+## Sobre
+
+Desenvolvedor full stack com foco em **Vue.js** no front-end e **Node.js / Express** no back-end. Gosto de tirar ideias do papel e transformá-las em produtos que funcionam — sistemas de gestão, plataformas institucionais, automações e integrações com bancos de dados.
+
+- Desenvolvo aplicações web completas, do front ao banco de dados
+- Trabalho com automação de processos e monitoramento de dispositivos em rede
+- Uso IA de forma prática no dia a dia para acelerar entregas e melhorar código
+- Sempre estudando novas ferramentas e boas práticas de desenvolvimento
+
+---
+
+## Stack
+
+**Front-end**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Vue Router](https://img.shields.io/badge/Vue_Router-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
+
+**Banco de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| **[Auditoria Fácil](https://github.com/Maciel76/Front-AuditoriaFacil)** | Sistema web para auditoria de lojas, com front-end e [API própria](https://github.com/Maciel76/Backend-auditoria-loja) | Vue · Node.js |
+| **[Dispositivo-Rede](https://github.com/Maciel76/Dispositivo-Rede)** | Sistema para monitoramento de dispositivos na rede | JavaScript · Node.js |
+| **[Gerenciamento de Dispositivos](https://github.com/Maciel76/Gereciamento_dispositivos)** | Painel de gestão e controle de dispositivos | Vue |
+| **[Desktop Automation](https://github.com/Maciel76/desktop-automation)** | Automação de tarefas em ambiente desktop | JavaScript |
+| **[SkillTechnologyWork](https://github.com/Maciel76/SkillTechnologyWork)** | Site institucional de agência de desenvolvimento web | Vue |
+| **[QRGen-Pro](https://github.com/Maciel76/QRGen-Pro)** | Gerador de QR Codes | CSS · JavaScript |
+
+> Também desenvolvo plataformas institucionais e comerciais como ClinicaVitalis, Advocacia Silva, Construtora Alpha, Instituto Educar e lojas online. Confira todos no meu [perfil](https://github.com/Maciel76?tab=repositories).
+
+---
+
+## Estatísticas
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciel76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel76&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maciel76&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciel76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
-
-## 🏆 Conquistas
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Maciel76&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
-## 📫 Como me Encontrar
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
-
-</div>
-
-## 🧠 Exploração e Aprendizado Contínuo
-
-### 🤖 Inteligência Artificial & Inovação
-
-Estou constantemente explorando e experimentando com as mais recentes tecnologias de IA:
-
-- 🔬 **Experimentação com LLMs** - Testando diferentes modelos de linguagem (Claude, Gemini, Qwen)
-- 🛠️ **IA no Desenvolvimento** - Utilizando GitHub Copilot e Claude para otimizar meu fluxo de trabalho
-- 📚 **Estudo Contínuo** - Acompanhando as últimas tendências em Machine Learning e IA Generativa
-- 💡 **Aplicações Práticas** - Integrando IA em projetos web para criar soluções mais inteligentes
-
-### 🚀 Áreas de Interesse
-
-- 🧩 Desenvolvimento de aplicações com integração de IA
-- 🌐 Web Development moderno com Vue.js e Node.js
-- 🤖 Automação inteligente de processos
-- 📊 Análise de dados e Machine Learning
-- 🔮 Exploração de novas tecnologias emergentes
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
-  
-  ### ⭐ Mostre seu apoio!
-  
-  Se você gostou de algum dos meus projetos, deixe uma ⭐ nos repositórios!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Maciel76/count.svg)
-  
-  **"Código limpo sempre parece ter sido escrito por alguém que se importa."** - Robert C. Martin
-  
+
+Aberto a colaborações, freelas e novos projetos. Vamos conversar!
+
 </div>
