@@ -1,26 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:10B981&height=170&section=header" alt="Cabeçalho em tons de verde e azul escuro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:166534,100:22C55E&height=150&section=header" alt="Cabeçalho em verde e azul escuro" />
 
-# Olá, eu sou o Maciel Ribeiro Barbosa 👋
+# Maciel Ribeiro Barbosa
 
-### Desenvolvedor Full Stack · Vue.js · Node.js · Automação
+### Desenvolvedor Full Stack · Vue.js & Node.js
 
-**Transformo necessidades do dia a dia em sistemas, integrações e experiências web.**
+**Automação, atendimento com IA e sistemas de gestão para negócios.**
 
-Do painel de gestão à automação de tarefas, desenvolvo soluções para organizar processos e facilitar o trabalho de quem usa.
-
-<br />
-
-[![Vue.js](https://img.shields.io/badge/Vue.js-0B1220?style=for-the-badge&logo=vuedotjs&logoColor=42B883)](#tecnologias)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#tecnologias)
-[![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](#tecnologias)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248)](#tecnologias)
-[![Electron](https://img.shields.io/badge/Electron-0B1220?style=for-the-badge&logo=electron&logoColor=9FEAF9)](#tecnologias)
+Goiânia, Goiás · Brasil
 
 <br />
 
-[Sobre mim](#sobre-mim) · [Tecnologias](#tecnologias) · [Projetos](#projetos-em-destaque) · [Contato](#vamos-conversar)
+[![Portfólio](https://img.shields.io/badge/Meu_portf%C3%B3lio-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skilltechnologywork.com/portfolio/autor/maciel76)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciel-ribeiro-850835229/)
+[![E-mail](https://img.shields.io/badge/E--mail-0B1220?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skilltechnologywork@gmail.com)
+
+<br />
+
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Tecnologias](#tecnologias) · [Contato](#contato)
 
 </div>
 
@@ -28,103 +26,122 @@ Do painel de gestão à automação de tarefas, desenvolvo soluções para organ
 
 ## Sobre mim
 
-Sou desenvolvedor full stack com foco em **Vue.js no front-end** e **Node.js com Express no back-end**. Gosto de entender como um processo funciona e transformar essa necessidade em uma aplicação útil, conectando interface, regras de negócio e banco de dados.
+Sou desenvolvedor full stack e gosto de transformar processos do dia a dia em produtos digitais. Trabalho com **Vue.js no front-end** e **Node.js com Express no back-end**, conectando interfaces, regras de negócio, bancos de dados e serviços externos.
 
-Meus projetos passam por **auditoria de lojas, gestão de infraestrutura de TI, monitoramento de rede, automação desktop e sites institucionais**.
+Meu trabalho reúne duas frentes principais: **automação de comunicação e atendimento** e **gestão de operações no varejo**. Desenvolvo plataformas com fluxos visuais, agentes de IA, indicadores e portais para diferentes perfis de usuário.
 
-- **Sistemas de gestão:** painéis, indicadores, cadastros e relatórios para acompanhar operações.
-- **Integrações e automação:** APIs e aplicações desktop para conectar sistemas e reduzir tarefas repetitivas.
-- **Desenvolvimento web:** interfaces com Vue.js e soluções para apresentar negócios e serviços.
-- **Aprendizado contínuo:** estudo novas ferramentas e uso IA como apoio no desenvolvimento e na revisão de código.
+- **Automação e atendimento:** WhatsApp, redes sociais, jornadas de mensagens e integrações com ferramentas de negócio.
+- **Gestão operacional:** promotores, fornecedores, produtos, estoque, validade e auditorias de lojas.
+- **Produtos web:** aplicações completas, painéis administrativos e experiências adaptadas a computadores e dispositivos móveis.
 
-## Tecnologias
-
-| Área | Tecnologias e ferramentas |
-| :--- | :--- |
-| **Front-end** | Vue.js 3, JavaScript, HTML5, CSS3, Pinia, Vue Router, Axios e Vite |
-| **Back-end e APIs** | Node.js, Express e APIs REST |
-| **Banco de dados** | MongoDB, Mongoose, MySQL e SQLite |
-| **Desktop e comunicação** | Electron e WebSocket |
-| **Visualização de dados** | Chart.js e Vue Chart.js |
-| **Desenvolvimento e publicação** | Git, GitHub, VS Code e Vercel |
+No meu [portfólio online](https://skilltechnologywork.com/portfolio/autor/maciel76), compartilho os projetos, suas funcionalidades e as tecnologias utilizadas em cada solução.
 
 ## Projetos em destaque
 
-### 🛒 Auditoria Fácil
+### 💬 ZapFlow · WhatsAppFlow
 
-Sistema para **gestão de auditorias de lojas**, com interface web e API em repositórios separados. Reúne auditorias de etiqueta, presença e ruptura, indicadores de conformidade, rankings e relatórios.
+**Plataforma de automação, atendimento e inteligência artificial para WhatsApp e redes sociais.**
 
-**Tecnologias:** Vue.js · Pinia · Chart.js · Node.js · Express · MongoDB
+<a href="https://whatsappflow.app/">
+  <img width="100%" src="https://skilltechnologywork.com/uploads/projects/mcp-4566dc3a9817a76bf44f-1793572085791-357222923.webp" alt="ZapFlow: apresentação da plataforma de automação de WhatsApp com IA, em computador e celular" />
+</a>
 
-[![Front--end](https://img.shields.io/badge/Ver_front--end-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Front-AuditoriaFacil)
-[![API](https://img.shields.io/badge/Ver_API-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Back-AuditoriaFacil)
-[![Aplicação](https://img.shields.io/badge/Acessar_aplica%C3%A7%C3%A3o-10B981?style=flat-square&logo=vercel&logoColor=white)](https://flashub-auditoria.vercel.app)
+Desenvolvi uma plataforma que reúne comunicação, automação e ferramentas de negócio em um painel. A proposta é conectar as conversas às rotinas de atendimento, vendas e suporte.
 
-### 🖥️ Gerenciamento de Dispositivos
+**Principais recursos**
 
-Painel para **gestão da infraestrutura de TI**, reunindo inventário de dispositivos, chamados técnicos, colaboradores, histórico de atividades e monitoramento de conectividade.
+- Conexão e gerenciamento de sessões do WhatsApp por QR Code.
+- Construtor visual de fluxos com mensagens, condições, variáveis, chamadas HTTP e ações com IA.
+- Criação de agentes de IA com objetivos e especialidades, apoiados por uma base de conhecimento.
+- Agendamento de mensagens, templates e relatórios de envio, recebimento, entrega e leitura.
+- Recursos para redes sociais e um catálogo modular de aplicativos para vendas, formulários, documentos e agendamentos.
 
-**Tecnologias:** Vue.js · Pinia · Vue Router · Axios
+**Stack:** Vue.js 3 · Vite · Pinia · Node.js · Express · MongoDB · PWA · Nginx · PM2
 
-[![Código](https://img.shields.io/badge/Ver_c%C3%B3digo-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Gereciamento_dispositivos)
-[![Aplicação](https://img.shields.io/badge/Acessar_aplica%C3%A7%C3%A3o-10B981?style=flat-square&logo=vercel&logoColor=white)](https://gereciamento-dispositivos.vercel.app)
-
-### ⚙️ Desktop Automation
-
-Aplicação desktop para **automatizar a digitação de códigos em outros sistemas**. Recebe comandos via WebSocket e executa uma sequência configurável de cliques, preenchimento e teclas no Windows.
-
-**Tecnologias:** Electron · JavaScript · WebSocket · Node.js
-
-[![Código](https://img.shields.io/badge/Ver_c%C3%B3digo-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/desktop-automation)
-
-### Mais projetos
-
-| Projeto | Proposta | Tecnologias | Links |
-| :--- | :--- | :--- | :--- |
-| **Dispositivo-Rede** | Cadastro de dispositivos por categoria e verificação de conectividade por ping. | JavaScript, Node.js e Express | [Código](https://github.com/Maciel76/Dispositivo-Rede) |
-| **SkillTechnologyWork** | Site institucional de uma agência de desenvolvimento web. | Vue.js, Vue Router e Vite | [Código](https://github.com/Maciel76/SkillTechnologyWork) · [Site](https://skilltechnologywork.com/) |
-| **QRGen-Pro** | Ferramenta web para gerar QR Codes. | JavaScript, HTML e CSS | [Código](https://github.com/Maciel76/QRGen-Pro) · [Aplicação](https://geradorqrcode-genpro.vercel.app) |
-
-<details>
-<summary><strong>Ver outros projetos de sites e interfaces</strong></summary>
+[![Acessar ZapFlow](https://img.shields.io/badge/Acessar_plataforma-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsappflow.app/)
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio_front--end-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76/whatsApp-frontend)
 
 <br />
 
-Além dos sistemas de gestão e automação, também desenvolvo projetos web voltados a diferentes segmentos:
+### 🏪 Promoter Manager · Rammis
 
-| Projeto | Segmento | Repositório |
-| :--- | :--- | :--- |
-| **Clínica Vitalis** | Saúde | [ClinicaVitalis](https://github.com/Maciel76/ClinicaVitalis) |
-| **Advocacia Silva** | Serviços jurídicos | [Advocacia-silva](https://github.com/Maciel76/Advocacia-silva) |
-| **Construtora Alpha** | Construção | [Construtora-Alpha](https://github.com/Maciel76/Construtora-Alpha) |
-| **Instituto Educar** | Educação | [Instituto-Educar](https://github.com/Maciel76/Instituto-Educar) |
-| **Cursos Online** | Cursos | [Cursos-Online](https://github.com/Maciel76/Cursos-Online) |
-| **E-book MarketingPro** | Marketing digital | [E-book-MarketingPro](https://github.com/Maciel76/E-book-MarketingPro) |
+**Plataforma de gestão de promotores, fornecedores, produtos e validade para operações de varejo.**
 
-</details>
+<a href="https://skilltechnologywork.com/portfolio/autor/maciel76">
+  <img width="100%" src="https://skilltechnologywork.com/uploads/projects/chatgpt-image-1-de-set.-de-2026,-00_23_57-1788238614412-645562139.png" alt="Rammis: apresentação do sistema de gestão de promotores, fornecedores e validade, em computador e celular" />
+</a>
+
+O sistema cruza os cadastros de promotores e fornecedores com as planilhas de estoque e vendas da loja. Assim, cada perfil acompanha as informações necessárias à sua rotina, enquanto a gestão mantém uma visão da operação.
+
+**Principais recursos**
+
+- Gestão de promotores, colaboradores, representantes e fornecedores.
+- Identificação de fornecedores e produtos com ou sem cobertura de promotores.
+- Importação de planilhas para consulta de estoque e dias sem venda.
+- Controle de validade com reporte, validação e acompanhamento de produtos próximos do vencimento.
+- Portais para administração, representantes, promotores, colaboradores e responsáveis pela validade.
+- Indicadores e relatórios para acompanhar cobertura, equipes e situação dos produtos.
+
+**Stack:** Vue.js · TypeScript · Pinia · Vite · Node.js · Express · MongoDB · WebSocket · Socket.IO
+
+[![Ver no portfólio](https://img.shields.io/badge/Ver_no_portf%C3%B3lio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skilltechnologywork.com/portfolio/autor/maciel76)
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio_front--end-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76/Promoter-manager-frontend)
 
 <br />
 
-**[Explorar todos os meus repositórios →](https://github.com/Maciel76?tab=repositories)**
-
----
-
-## Vamos conversar?
-
-Estou aberto a **colaborações, projetos freelance e novas oportunidades** em desenvolvimento web, sistemas de gestão e automação.
-
-Conheça meus projetos por aqui e acesse o site da SkillTechnologyWork para saber mais sobre os serviços.
+## Tecnologias
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Meus_projetos-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76?tab=repositories)
-[![SkillTechnologyWork](https://img.shields.io/badge/SkillTechnologyWork-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skilltechnologywork.com/)
-
-<br />
-
-**Interfaces, dados e automação conectados ao trabalho de quem usa.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:10B981&height=100&section=footer" alt="Rodapé em tons de verde e azul escuro" />
+![Vue.js](https://img.shields.io/badge/Vue.js-0B1220?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 </div>
 
+| Área | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Interfaces web** | Vue.js 3, JavaScript, TypeScript, HTML5, CSS3, Pinia, Vue Router e Vite |
+| **Back-end e integrações** | Node.js, Express, PHP, APIs REST, WebSocket e Socket.IO |
+| **Persistência de dados** | MongoDB, Mongoose, MySQL e SQLite |
+| **Automação e aplicações** | Integração com WhatsApp, fluxos visuais, agentes de IA, Electron e PWA |
+| **Indicadores e gráficos** | Chart.js e Vue Chart.js |
+| **Desenvolvimento e infraestrutura** | Git, GitHub, Nginx, PM2 e Vercel |
+
+## Outros projetos do meu portfólio
+
+| Projeto | O que desenvolvi | Acesso |
+| :--- | :--- | :--- |
+| **Flashub Auditoria** | Gestão de auditorias de etiqueta, presença e ruptura, com indicadores, rankings e gamificação de equipes. | [Aplicação](https://flashub-auditoria.vercel.app) |
+| **Kallil 2.0** | Sistema de gestão comercial e ponto de venda, reunindo produtos, estoque, caixa e relatórios. | [Site](https://kallil.net/) |
+| **LinkaBio** | Plataforma de páginas de links na bio, com templates, personalização e acompanhamento de cliques. | [Site](https://linkab.io/) |
+| **NextLivro** | Biblioteca digital e plataforma de leitura. | [Site](https://nextlivro.com/) |
+| **NeoBlog** | Plataforma de publicação, divulgação de conteúdo e comunidade. | [Site](https://neoblog.com.br/) |
+
+**[Ver o portfólio completo →](https://skilltechnologywork.com/portfolio/autor/maciel76)**
+
+## Contato
+
+Estou disponível para **novos projetos e colaborações** em desenvolvimento web, automação e sistemas de gestão.
+
+Se você precisa conectar ferramentas, organizar processos ou desenvolver uma plataforma para o seu negócio, podemos conversar.
+
+| Canal | Endereço |
+| :--- | :--- |
+| **Portfólio** | [Projetos e apresentação profissional](https://skilltechnologywork.com/portfolio/autor/maciel76) |
+| **LinkedIn** | [Maciel Ribeiro Barbosa](https://www.linkedin.com/in/maciel-ribeiro-850835229/) |
+| **E-mail** | [skilltechnologywork@gmail.com](mailto:skilltechnologywork@gmail.com) |
+| **Skill Technology Work** | [skilltechnologywork.com](https://skilltechnologywork.com/) |
+
+<div align="center">
+
+<br />
+
+**Da necessidade do negócio à interface, à integração e à operação.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:166534,100:22C55E&height=100&section=footer" alt="Rodapé em verde e azul escuro" />
+
+</div>
