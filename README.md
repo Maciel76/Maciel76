@@ -1,97 +1,130 @@
 <div align="center">
 
-# Maciel Ribeiro Barbosa
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:10B981&height=170&section=header" alt="Cabeçalho em tons de verde e azul escuro" />
 
-### Desenvolvedor Full Stack · Vue.js & Node.js
+# Olá, eu sou o Maciel Ribeiro Barbosa 👋
 
-Construindo aplicações web para complexas para  resolver problemas reais de negócio — como sistemas e  plataformas  institucionais Personalizadas e automação.
+### Desenvolvedor Full Stack · Vue.js · Node.js · Automação
 
-<br>
+**Transformo necessidades do dia a dia em sistemas, integrações e experiências web.**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue.js+%7C+Node.js+%7C+Express;Sistemas+web+para+neg%C3%B3cios+reais;Automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%A3o+de+dados)
+Do painel de gestão à automação de tarefas, desenvolvo soluções para organizar processos e facilitar o trabalho de quem usa.
 
-<br>
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![Vue.js](https://img.shields.io/badge/Vue.js-0B1220?style=for-the-badge&logo=vuedotjs&logoColor=42B883)](#tecnologias)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#tecnologias)
+[![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](#tecnologias)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248)](#tecnologias)
+[![Electron](https://img.shields.io/badge/Electron-0B1220?style=for-the-badge&logo=electron&logoColor=9FEAF9)](#tecnologias)
+
+<br />
+
+[Sobre mim](#sobre-mim) · [Tecnologias](#tecnologias) · [Projetos](#projetos-em-destaque) · [Contato](#vamos-conversar)
 
 </div>
 
 ---
 
-## Sobre
+## Sobre mim
 
-Desenvolvedor full stack com foco em **Vue.js** no front-end e **Node.js / Express** no back-end. Gosto de tirar ideias do papel e transformá-las em produtos que funcionam — sistemas de gestão, plataformas institucionais, automações e integrações com bancos de dados.
+Sou desenvolvedor full stack com foco em **Vue.js no front-end** e **Node.js com Express no back-end**. Gosto de entender como um processo funciona e transformar essa necessidade em uma aplicação útil, conectando interface, regras de negócio e banco de dados.
 
-- Desenvolvo aplicações web completas, do front ao banco de dados
-- Trabalho com automação de processos e monitoramento de dispositivos em rede
-- Uso IA de forma prática no dia a dia para acelerar entregas e melhorar código
-- Sempre estudando novas ferramentas e boas práticas de desenvolvimento
+Meus projetos passam por **auditoria de lojas, gestão de infraestrutura de TI, monitoramento de rede, automação desktop e sites institucionais**.
 
----
+- **Sistemas de gestão:** painéis, indicadores, cadastros e relatórios para acompanhar operações.
+- **Integrações e automação:** APIs e aplicações desktop para conectar sistemas e reduzir tarefas repetitivas.
+- **Desenvolvimento web:** interfaces com Vue.js e soluções para apresentar negócios e serviços.
+- **Aprendizado contínuo:** estudo novas ferramentas e uso IA como apoio no desenvolvimento e na revisão de código.
 
-## Stack
+## Tecnologias
 
-**Front-end**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
-![Vue Router](https://img.shields.io/badge/Vue_Router-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
-
-**Banco de dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
+| Área | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Front-end** | Vue.js 3, JavaScript, HTML5, CSS3, Pinia, Vue Router, Axios e Vite |
+| **Back-end e APIs** | Node.js, Express e APIs REST |
+| **Banco de dados** | MongoDB, Mongoose, MySQL e SQLite |
+| **Desktop e comunicação** | Electron e WebSocket |
+| **Visualização de dados** | Chart.js e Vue Chart.js |
+| **Desenvolvimento e publicação** | Git, GitHub, VS Code e Vercel |
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| **[Auditoria Fácil](https://github.com/Maciel76/Front-AuditoriaFacil)** | Sistema web para auditoria de lojas, com front-end e [API própria](https://github.com/Maciel76/Backend-auditoria-loja) | Vue · Node.js |
-| **[Dispositivo-Rede](https://github.com/Maciel76/Dispositivo-Rede)** | Sistema para monitoramento de dispositivos na rede | JavaScript · Node.js |
-| **[Gerenciamento de Dispositivos](https://github.com/Maciel76/Gereciamento_dispositivos)** | Painel de gestão e controle de dispositivos | Vue |
-| **[Desktop Automation](https://github.com/Maciel76/desktop-automation)** | Automação de tarefas em ambiente desktop | JavaScript |
-| **[SkillTechnologyWork](https://github.com/Maciel76/SkillTechnologyWork)** | Site institucional de agência de desenvolvimento web | Vue |
-| **[QRGen-Pro](https://github.com/Maciel76/QRGen-Pro)** | Gerador de QR Codes | CSS · JavaScript |
+### 🛒 Auditoria Fácil
 
-> Também desenvolvo plataformas institucionais e comerciais como ClinicaVitalis, Advocacia Silva, Construtora Alpha, Instituto Educar e lojas online. Confira todos no meu [perfil](https://github.com/Maciel76?tab=repositories).
+Sistema para **gestão de auditorias de lojas**, com interface web e API em repositórios separados. Reúne auditorias de etiqueta, presença e ruptura, indicadores de conformidade, rankings e relatórios.
+
+**Tecnologias:** Vue.js · Pinia · Chart.js · Node.js · Express · MongoDB
+
+[![Front--end](https://img.shields.io/badge/Ver_front--end-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Front-AuditoriaFacil)
+[![API](https://img.shields.io/badge/Ver_API-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Back-AuditoriaFacil)
+[![Aplicação](https://img.shields.io/badge/Acessar_aplica%C3%A7%C3%A3o-10B981?style=flat-square&logo=vercel&logoColor=white)](https://flashub-auditoria.vercel.app)
+
+### 🖥️ Gerenciamento de Dispositivos
+
+Painel para **gestão da infraestrutura de TI**, reunindo inventário de dispositivos, chamados técnicos, colaboradores, histórico de atividades e monitoramento de conectividade.
+
+**Tecnologias:** Vue.js · Pinia · Vue Router · Axios
+
+[![Código](https://img.shields.io/badge/Ver_c%C3%B3digo-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/Gereciamento_dispositivos)
+[![Aplicação](https://img.shields.io/badge/Acessar_aplica%C3%A7%C3%A3o-10B981?style=flat-square&logo=vercel&logoColor=white)](https://gereciamento-dispositivos.vercel.app)
+
+### ⚙️ Desktop Automation
+
+Aplicação desktop para **automatizar a digitação de códigos em outros sistemas**. Recebe comandos via WebSocket e executa uma sequência configurável de cliques, preenchimento e teclas no Windows.
+
+**Tecnologias:** Electron · JavaScript · WebSocket · Node.js
+
+[![Código](https://img.shields.io/badge/Ver_c%C3%B3digo-0B1220?style=flat-square&logo=github&logoColor=white)](https://github.com/Maciel76/desktop-automation)
+
+### Mais projetos
+
+| Projeto | Proposta | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| **Dispositivo-Rede** | Cadastro de dispositivos por categoria e verificação de conectividade por ping. | JavaScript, Node.js e Express | [Código](https://github.com/Maciel76/Dispositivo-Rede) |
+| **SkillTechnologyWork** | Site institucional de uma agência de desenvolvimento web. | Vue.js, Vue Router e Vite | [Código](https://github.com/Maciel76/SkillTechnologyWork) · [Site](https://skilltechnologywork.com/) |
+| **QRGen-Pro** | Ferramenta web para gerar QR Codes. | JavaScript, HTML e CSS | [Código](https://github.com/Maciel76/QRGen-Pro) · [Aplicação](https://geradorqrcode-genpro.vercel.app) |
+
+<details>
+<summary><strong>Ver outros projetos de sites e interfaces</strong></summary>
+
+<br />
+
+Além dos sistemas de gestão e automação, também desenvolvo projetos web voltados a diferentes segmentos:
+
+| Projeto | Segmento | Repositório |
+| :--- | :--- | :--- |
+| **Clínica Vitalis** | Saúde | [ClinicaVitalis](https://github.com/Maciel76/ClinicaVitalis) |
+| **Advocacia Silva** | Serviços jurídicos | [Advocacia-silva](https://github.com/Maciel76/Advocacia-silva) |
+| **Construtora Alpha** | Construção | [Construtora-Alpha](https://github.com/Maciel76/Construtora-Alpha) |
+| **Instituto Educar** | Educação | [Instituto-Educar](https://github.com/Maciel76/Instituto-Educar) |
+| **Cursos Online** | Cursos | [Cursos-Online](https://github.com/Maciel76/Cursos-Online) |
+| **E-book MarketingPro** | Marketing digital | [E-book-MarketingPro](https://github.com/Maciel76/E-book-MarketingPro) |
+
+</details>
+
+<br />
+
+**[Explorar todos os meus repositórios →](https://github.com/Maciel76?tab=repositories)**
 
 ---
 
-## Estatísticas
+## Vamos conversar?
+
+Estou aberto a **colaborações, projetos freelance e novas oportunidades** em desenvolvimento web, sistemas de gestão e automação.
+
+Conheça meus projetos por aqui e acesse o site da SkillTechnologyWork para saber mais sobre os serviços.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciel76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub](https://img.shields.io/badge/Meus_projetos-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maciel76?tab=repositories)
+[![SkillTechnologyWork](https://img.shields.io/badge/SkillTechnologyWork-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skilltechnologywork.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br />
 
-</div>
+**Interfaces, dados e automação conectados ao trabalho de quem usa.**
 
----
-
-<div align="center">
-
-Aberto a colaborações, freelas e novos projetos. Vamos conversar!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:10B981&height=100&section=footer" alt="Rodapé em tons de verde e azul escuro" />
 
 </div>
+
